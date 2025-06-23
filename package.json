@@ -3,13 +3,13 @@
   "displayName": "BoilerKit",
   "publisher": "megh",
   "description": "Quickly insert boilerplate code for 30+ languages and frameworks using smart snippet triggers.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.101.0"
   },
   "categories": [
     "Snippets",
-  "Programming Languages"
+    "Programming Languages"
   ],
   "keywords": [
     "boilerplate",
